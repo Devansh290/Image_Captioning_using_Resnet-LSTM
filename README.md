@@ -2,15 +2,6 @@
 
 A deep learning project that automatically generates descriptive captions for images by integrating **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks enhanced with an **attention mechanism**. Built using **PyTorch** and trained on the **Flickr8k** dataset.
 
-## 👨‍💻 Project Members
-- Devansh Gohar (70562200087)
-- Hevea Vadgama (70562200044)
-
-## 📅 Submission Details
-- Submitted to: Dr. Sandeep Jain
-- Date: 16 April 2025
-
----
 
 ## 📌 Table of Contents
 - [Abstract](#abstract)
